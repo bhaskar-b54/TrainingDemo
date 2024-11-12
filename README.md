@@ -1,3 +1,4 @@
 # TrainingDemo
 V & V Automation Testing Selenium Java
-as scheduled
+qualification- IT
+Location- Banglore
